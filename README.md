@@ -7,7 +7,7 @@ fitted three Guassian Mixture Models (GMM) using Expectation-Maximization (EM) a
 
 ## Setup
 This project is developed using Python 3 and Jupyter Notebook. Refer to `GMM_EM.ipynb` for the required packages. Please
-make sure your -`threadpoolctl` package has a version > 3.0.0, otherwise model fitting will fail.
+make sure your `threadpoolctl` package has a version > 3.0.0, otherwise model fitting will fail.
 
 
 ## File Descriptions
